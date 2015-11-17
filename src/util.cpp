@@ -12,7 +12,7 @@ int bar(void)
 }
 
 // edit in branch calc-fibs
-// Speeling eerror
+// Spelling error
 int foobar(void)
 {
 	printf("Super foobar\n"):
