@@ -10,3 +10,8 @@ int bar(void)
 {
 	return 0;
 }
+
+int foobar(void)
+{
+	return 42;
+}
