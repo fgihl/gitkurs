@@ -15,6 +15,7 @@ int bar(void)
 
 int foobar(void)
 {
-	printf("Super foobar\n");
+	printf("Super foobar\n"):
+	printf("foobar\n");
 	return 42;
 }
