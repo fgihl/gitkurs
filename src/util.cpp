@@ -15,5 +15,6 @@ int bar(void)
 
 int foobar(void)
 {
+    printf("foobar\n");
 	return 42;
 }
